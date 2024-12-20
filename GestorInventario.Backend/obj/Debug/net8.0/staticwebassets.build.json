@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "LFJExQ7oSWsaQjXtX2R16UI7sD8WrRQasatCHTDIKr4=",
+  "Source": "GestorInventario.Backend",
+  "BasePath": "_content/GestorInventario.Backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

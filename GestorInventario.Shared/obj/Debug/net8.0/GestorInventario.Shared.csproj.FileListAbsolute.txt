@@ -1,0 +1,12 @@
+C:\Users\BENJA\OneDrive\Escritorio\UNIVERSIDAD ITI\Programación de Aplicaciones Web y Móviles\GestorInventario\GestorInventario\GestorInventario.Shared\bin\Debug\net8.0\GestorInventario.Shared.deps.json
+C:\Users\BENJA\OneDrive\Escritorio\UNIVERSIDAD ITI\Programación de Aplicaciones Web y Móviles\GestorInventario\GestorInventario\GestorInventario.Shared\bin\Debug\net8.0\GestorInventario.Shared.dll
+C:\Users\BENJA\OneDrive\Escritorio\UNIVERSIDAD ITI\Programación de Aplicaciones Web y Móviles\GestorInventario\GestorInventario\GestorInventario.Shared\bin\Debug\net8.0\GestorInventario.Shared.pdb
+C:\Users\BENJA\OneDrive\Escritorio\UNIVERSIDAD ITI\Programación de Aplicaciones Web y Móviles\GestorInventario\GestorInventario\GestorInventario.Shared\obj\Debug\net8.0\GestorInventario.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BENJA\OneDrive\Escritorio\UNIVERSIDAD ITI\Programación de Aplicaciones Web y Móviles\GestorInventario\GestorInventario\GestorInventario.Shared\obj\Debug\net8.0\GestorInventario.Shared.AssemblyInfoInputs.cache
+C:\Users\BENJA\OneDrive\Escritorio\UNIVERSIDAD ITI\Programación de Aplicaciones Web y Móviles\GestorInventario\GestorInventario\GestorInventario.Shared\obj\Debug\net8.0\GestorInventario.Shared.AssemblyInfo.cs
+C:\Users\BENJA\OneDrive\Escritorio\UNIVERSIDAD ITI\Programación de Aplicaciones Web y Móviles\GestorInventario\GestorInventario\GestorInventario.Shared\obj\Debug\net8.0\GestorInventario.Shared.csproj.CoreCompileInputs.cache
+C:\Users\BENJA\OneDrive\Escritorio\UNIVERSIDAD ITI\Programación de Aplicaciones Web y Móviles\GestorInventario\GestorInventario\GestorInventario.Shared\obj\Debug\net8.0\GestorInventario.Shared.dll
+C:\Users\BENJA\OneDrive\Escritorio\UNIVERSIDAD ITI\Programación de Aplicaciones Web y Móviles\GestorInventario\GestorInventario\GestorInventario.Shared\obj\Debug\net8.0\refint\GestorInventario.Shared.dll
+C:\Users\BENJA\OneDrive\Escritorio\UNIVERSIDAD ITI\Programación de Aplicaciones Web y Móviles\GestorInventario\GestorInventario\GestorInventario.Shared\obj\Debug\net8.0\GestorInventario.Shared.pdb
+C:\Users\BENJA\OneDrive\Escritorio\UNIVERSIDAD ITI\Programación de Aplicaciones Web y Móviles\GestorInventario\GestorInventario\GestorInventario.Shared\obj\Debug\net8.0\ref\GestorInventario.Shared.dll
+C:\Users\BENJA\OneDrive\Escritorio\UNIVERSIDAD ITI\Programación de Aplicaciones Web y Móviles\GestorInventario\GestorInventario\GestorInventario.Shared\obj\Debug\net8.0\GestorInventario.Shared.csproj.AssemblyReference.cache
