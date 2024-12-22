@@ -1,5 +1,5 @@
-#API de Gestión de Inventarios
-#Descripción
+API de Gestión de Inventarios
+Descripción
 
 Esta API proporciona un conjunto de endpoints para gestionar inventarios en una empresa. Permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre productos, usuarios, categorías, y reportes, además de gestionar el control del stock en tiempo real.
 
