@@ -14,16 +14,23 @@ Documentación interactiva mediante Swagger.
 Instalación
 
 Requisitos previos
+
 Tener instalado:
+
 Visual Studio 2022
+
 .NET 6.0 o superior.
+
 SQL Server.
 
 Endpoints principales
 
 Autenticación
+
 POST /api/auth/login: Iniciar sesión.
+
 Productos
+
 GET /api/products: Listar todos los productos.
 
 GET /api/products/{id}: Obtener detalles de un producto.
