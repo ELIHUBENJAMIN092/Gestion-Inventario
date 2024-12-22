@@ -25,18 +25,35 @@ Autenticación
 POST /api/auth/login: Iniciar sesión.
 Productos
 GET /api/products: Listar todos los productos.
+
 GET /api/products/{id}: Obtener detalles de un producto.
+
 POST /api/products: Crear un nuevo producto.
+
 PUT /api/products/{id}: Actualizar un producto existente.
+
 DELETE /api/products/{id}: Eliminar un producto.
+
 Usuarios
+
 GET /api/users: Listar todos los usuarios.
+
 POST /api/users: Crear un nuevo usuario.
+
+DELETE /api/users: Eliminar un nuevo usuario.
+
 Reportes
+
 GET /api/reports/stock: Generar un reporte de inventario.
+
 Tecnologías utilizadas
-Lenguaje: C#
-Framework: ASP.NET Core
-Base de datos: SQL Server
-ORM: Entity Framework Core
-Documentación: Swagger
+
+- Lenguaje: C#
+
+- Framework: ASP.NET Core
+  
+- Base de datos: SQL Server
+
+- ORM: Entity Framework Core
+
+-Documentación: Swagger
