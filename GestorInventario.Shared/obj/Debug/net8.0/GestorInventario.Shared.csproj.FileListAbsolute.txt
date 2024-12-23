@@ -10,3 +10,4 @@ C:\Users\BENJA\OneDrive\Escritorio\UNIVERSIDAD ITI\Programación de Aplicaciones
 C:\Users\BENJA\OneDrive\Escritorio\UNIVERSIDAD ITI\Programación de Aplicaciones Web y Móviles\GestorInventario\GestorInventario\GestorInventario.Shared\obj\Debug\net8.0\GestorInventario.Shared.pdb
 C:\Users\BENJA\OneDrive\Escritorio\UNIVERSIDAD ITI\Programación de Aplicaciones Web y Móviles\GestorInventario\GestorInventario\GestorInventario.Shared\obj\Debug\net8.0\ref\GestorInventario.Shared.dll
 C:\Users\BENJA\OneDrive\Escritorio\UNIVERSIDAD ITI\Programación de Aplicaciones Web y Móviles\GestorInventario\GestorInventario\GestorInventario.Shared\obj\Debug\net8.0\GestorInventario.Shared.csproj.AssemblyReference.cache
+C:\Users\BENJA\OneDrive\Escritorio\UNIVERSIDAD ITI\Programación de Aplicaciones Web y Móviles\GestorInventario\GestorInventario\GestorInventario.Shared\obj\Debug\net8.0\GestorInventario.Shared.sourcelink.json

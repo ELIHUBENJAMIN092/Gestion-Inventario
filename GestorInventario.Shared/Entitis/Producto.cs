@@ -10,22 +10,24 @@ namespace GestorInventario.Shared.Entitis
 {
     public class Producto
     {
+        public int Cantidad;
+
         [Key]
         public int IdProducto { get; set; }
 
         [Required]
         [MaxLength(100)]
-        public string Name { get; set; }  // Nombre del producto
+        public string Name { get; set; }
 
-        public string? descripcion { get; set; }  // Descripción opcional
+        public string? descripcion { get; set; }
 
         [Required]
-        [Column(TypeName = "decimal(18, 2)")] // Configura la precisión con anotación compatible
-        public decimal precio_unitario { get; set; }  // Precio unitario
+        [Column(TypeName = "decimal(18, 2)")]
+        public decimal precio_unitario { get; set; }
 
         [Range(0, int.MaxValue, ErrorMessage = "El stock no puede ser negativo.")]
-        public int stockactual { get; set; }  // Stock actual, con valor por defecto 0
+        public int stockactual { get; set; }
 
-        public int? id_proveedor { get; set; }  // Relación con Proveedor, puede ser nulo si no se asigna
+        public int? id_proveedor { get; set; }
     }
 }

@@ -63,6 +63,69 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "GestorInventario.Backend.Controllers.Entrada_InventarioController",
+    "Method": "AddProduct",
+    "RelativePath": "api/Entrada_Inventario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entrada_stock",
+        "Type": "GestorInventario.Shared.Entitis.Entrada_Inventario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestorInventario.Backend.Controllers.Entrada_InventarioController",
+    "Method": "GetEntrada_Inventario",
+    "RelativePath": "api/Entrada_Inventario",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestorInventario.Backend.Controllers.Entrada_InventarioController",
+    "Method": "Updateentrada_stock",
+    "RelativePath": "api/Entrada_Inventario/{id}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedentrada_stock",
+        "Type": "GestorInventario.Shared.Entitis.Entrada_Inventario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestorInventario.Backend.Controllers.Entrada_InventarioController",
+    "Method": "Deleteentrada_stock",
+    "RelativePath": "api/Entrada_Inventario/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "GestorInventario.Backend.Controllers.ProductosController",
     "Method": "AddProduct",
     "RelativePath": "api/Productos",
@@ -113,6 +176,69 @@
     "ContainingType": "GestorInventario.Backend.Controllers.ProductosController",
     "Method": "DeleteProductos",
     "RelativePath": "api/Productos/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestorInventario.Backend.Controllers.ProveedorController",
+    "Method": "AddProveedor",
+    "RelativePath": "api/Proveedor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "proveedores",
+        "Type": "GestorInventario.Shared.Entitis.Proveedor",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestorInventario.Backend.Controllers.ProveedorController",
+    "Method": "GetProveedor",
+    "RelativePath": "api/Proveedor",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestorInventario.Backend.Controllers.ProveedorController",
+    "Method": "UpdateProveedor",
+    "RelativePath": "api/Proveedor/{id}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedproveedores",
+        "Type": "GestorInventario.Shared.Entitis.Proveedor",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestorInventario.Backend.Controllers.ProveedorController",
+    "Method": "DeleteProveedor",
+    "RelativePath": "api/Proveedor/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,

@@ -173,3 +173,4 @@ C:\Users\BENJA\OneDrive\Escritorio\UNIVERSIDAD ITI\Programación de Aplicaciones
 C:\Users\BENJA\OneDrive\Escritorio\UNIVERSIDAD ITI\Programación de Aplicaciones Web y Móviles\GestorInventario\GestorInventario\GestorInventario.Backend\obj\Debug\net8.0\GestorInventario.Backend.genruntimeconfig.cache
 C:\Users\BENJA\OneDrive\Escritorio\UNIVERSIDAD ITI\Programación de Aplicaciones Web y Móviles\GestorInventario\GestorInventario\GestorInventario.Backend\obj\Debug\net8.0\ref\GestorInventario.Backend.dll
 C:\Users\BENJA\OneDrive\Escritorio\UNIVERSIDAD ITI\Programación de Aplicaciones Web y Móviles\GestorInventario\GestorInventario\GestorInventario.Backend\bin\Debug\net8.0\MathNet.Numerics.dll
+C:\Users\BENJA\OneDrive\Escritorio\UNIVERSIDAD ITI\Programación de Aplicaciones Web y Móviles\GestorInventario\GestorInventario\GestorInventario.Backend\obj\Debug\net8.0\GestorInventario.Backend.sourcelink.json

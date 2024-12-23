@@ -9,14 +9,14 @@ namespace GestorInventario.Shared.Entitis
 {
     public class Categoria
     {
-        [Key] // Indica que esta propiedad es la clave primaria
+        [Key]
         public int ID_Categoria { get; set; }
 
-        [Required] // Indica que esta propiedad es obligatoria
-        [MaxLength(100)] // Establece el tamaño máximo de la columna Nombre
+        [Required]
+        [MaxLength(100)]
         public string Name { get; set; }
 
-        [MaxLength(255)] // Establece el tamaño máximo de la columna Descripcion
+        [MaxLength(255)]
         public string? Descripcion { get; set; }
     }
 }
