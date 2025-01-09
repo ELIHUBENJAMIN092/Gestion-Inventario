@@ -4,6 +4,7 @@ using GestorInventario.Backend.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace GestorInventario.Backend.Migrations
 {
     [DbContext(typeof(DataContext))]
-    partial class DataContextModelSnapshot : ModelSnapshot
+    [Migration("20241224031759_AddUser")]
+    partial class AddUser
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -180,13 +183,13 @@ namespace GestorInventario.Backend.Migrations
 
                     b.Property<string>("Email")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("RolId")
+                    b.Property<int?>("RolId")
                         .HasColumnType("int");
 
                     b.Property<string>("UserName")
@@ -194,6 +197,9 @@ namespace GestorInventario.Backend.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("UserId");
+
+                    b.HasIndex("Email")
+                        .IsUnique();
 
                     b.HasIndex("RolId");
 
@@ -221,13 +227,15 @@ namespace GestorInventario.Backend.Migrations
 
             modelBuilder.Entity("GestorInventario.Shared.Entitis.User", b =>
                 {
-                    b.HasOne("GestorInventario.Shared.Entitis.Rol", "Rol")
-                        .WithMany()
+                    b.HasOne("GestorInventario.Shared.Entitis.Rol", null)
+                        .WithMany("Users")
                         .HasForeignKey("RolId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .OnDelete(DeleteBehavior.Restrict);
+                });
 
-                    b.Navigation("Rol");
+            modelBuilder.Entity("GestorInventario.Shared.Entitis.Rol", b =>
+                {
+                    b.Navigation("Users");
                 });
 #pragma warning restore 612, 618
         }

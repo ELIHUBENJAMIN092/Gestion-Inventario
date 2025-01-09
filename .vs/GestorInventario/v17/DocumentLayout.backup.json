@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\BENJA\\OneDrive\\Escritorio\\UNIVERSIDAD ITI\\Programaci\u00F3n de Aplicaciones Web y M\u00F3viles\\GestorInventario\\GestorInventario\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\BENJA\\OneDrive\\Escritorio\\UNIVERSIDAD ITI\\Programaci\u00F3n de Aplicaciones Web y M\u00F3viles\\GestorInventario\\GestorInventario\\GestorInventario.Backend\\Migrations\\20241223014114_AddEntradaInventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestorInventario.Backend\\Migrations\\20241223014114_AddEntradaInventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\BENJA\\OneDrive\\Escritorio\\UNIVERSIDAD ITI\\Programaci\u00F3n de Aplicaciones Web y M\u00F3viles\\GestorInventario\\GestorInventario\\GestorInventario.Backend\\Migrations\\20250105031335_UpdateEntityUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestorInventario.Backend\\Migrations\\20250105031335_UpdateEntityUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE3630C-ECDA-43A8-AA1E-3D2D7E1F1FCB}|GestorInventario.Shared\\GestorInventario.Shared.csproj|c:\\users\\benja\\onedrive\\escritorio\\universidad iti\\programaci\u00F3n de aplicaciones web y m\u00F3viles\\gestorinventario\\gestorinventario\\gestorinventario.shared\\entitis\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE3630C-ECDA-43A8-AA1E-3D2D7E1F1FCB}|GestorInventario.Shared\\GestorInventario.Shared.csproj|solutionrelative:gestorinventario.shared\\entitis\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6648F425-C9EB-4ED1-B691-53DB3C90CFCB}|GestorInventario.Backend\\GestorInventario.Backend.csproj|c:\\users\\benja\\onedrive\\escritorio\\universidad iti\\programaci\u00F3n de aplicaciones web y m\u00F3viles\\gestorinventario\\gestorinventario\\gestorinventario.backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6648F425-C9EB-4ED1-B691-53DB3C90CFCB}|GestorInventario.Backend\\GestorInventario.Backend.csproj|solutionrelative:gestorinventario.backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6648F425-C9EB-4ED1-B691-53DB3C90CFCB}|GestorInventario.Backend\\GestorInventario.Backend.csproj|c:\\users\\benja\\onedrive\\escritorio\\universidad iti\\programaci\u00F3n de aplicaciones web y m\u00F3viles\\gestorinventario\\gestorinventario\\gestorinventario.backend\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6648F425-C9EB-4ED1-B691-53DB3C90CFCB}|GestorInventario.Backend\\GestorInventario.Backend.csproj|solutionrelative:gestorinventario.backend\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6648F425-C9EB-4ED1-B691-53DB3C90CFCB}|GestorInventario.Backend\\GestorInventario.Backend.csproj|c:\\users\\benja\\onedrive\\escritorio\\universidad iti\\programaci\u00F3n de aplicaciones web y m\u00F3viles\\gestorinventario\\gestorinventario\\gestorinventario.backend\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6648F425-C9EB-4ED1-B691-53DB3C90CFCB}|GestorInventario.Backend\\GestorInventario.Backend.csproj|solutionrelative:gestorinventario.backend\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6648F425-C9EB-4ED1-B691-53DB3C90CFCB}|GestorInventario.Backend\\GestorInventario.Backend.csproj|c:\\users\\benja\\onedrive\\escritorio\\universidad iti\\programaci\u00F3n de aplicaciones web y m\u00F3viles\\gestorinventario\\gestorinventario\\gestorinventario.backend\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6648F425-C9EB-4ED1-B691-53DB3C90CFCB}|GestorInventario.Backend\\GestorInventario.Backend.csproj|solutionrelative:gestorinventario.backend\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE3630C-ECDA-43A8-AA1E-3D2D7E1F1FCB}|GestorInventario.Shared\\GestorInventario.Shared.csproj|c:\\users\\benja\\onedrive\\escritorio\\universidad iti\\programaci\u00F3n de aplicaciones web y m\u00F3viles\\gestorinventario\\gestorinventario\\gestorinventario.shared\\entitis\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE3630C-ECDA-43A8-AA1E-3D2D7E1F1FCB}|GestorInventario.Shared\\GestorInventario.Shared.csproj|solutionrelative:gestorinventario.shared\\entitis\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6648F425-C9EB-4ED1-B691-53DB3C90CFCB}|GestorInventario.Backend\\GestorInventario.Backend.csproj|c:\\users\\benja\\onedrive\\escritorio\\universidad iti\\programaci\u00F3n de aplicaciones web y m\u00F3viles\\gestorinventario\\gestorinventario\\gestorinventario.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6648F425-C9EB-4ED1-B691-53DB3C90CFCB}|GestorInventario.Backend\\GestorInventario.Backend.csproj|solutionrelative:gestorinventario.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE3630C-ECDA-43A8-AA1E-3D2D7E1F1FCB}|GestorInventario.Shared\\GestorInventario.Shared.csproj|c:\\users\\benja\\onedrive\\escritorio\\universidad iti\\programaci\u00F3n de aplicaciones web y m\u00F3viles\\gestorinventario\\gestorinventario\\gestorinventario.shared\\entitis\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE3630C-ECDA-43A8-AA1E-3D2D7E1F1FCB}|GestorInventario.Shared\\GestorInventario.Shared.csproj|solutionrelative:gestorinventario.shared\\entitis\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6648F425-C9EB-4ED1-B691-53DB3C90CFCB}|GestorInventario.Backend\\GestorInventario.Backend.csproj|c:\\users\\benja\\onedrive\\escritorio\\universidad iti\\programaci\u00F3n de aplicaciones web y m\u00F3viles\\gestorinventario\\gestorinventario\\gestorinventario.backend\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6648F425-C9EB-4ED1-B691-53DB3C90CFCB}|GestorInventario.Backend\\GestorInventario.Backend.csproj|solutionrelative:gestorinventario.backend\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2AE3630C-ECDA-43A8-AA1E-3D2D7E1F1FCB}|GestorInventario.Shared\\GestorInventario.Shared.csproj|c:\\users\\benja\\onedrive\\escritorio\\universidad iti\\programaci\u00F3n de aplicaciones web y m\u00F3viles\\gestorinventario\\gestorinventario\\gestorinventario.shared\\entitis\\entrada_inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,42 +55,18 @@
       "RelativeMoniker": "D:0:0:{6648F425-C9EB-4ED1-B691-53DB3C90CFCB}|GestorInventario.Backend\\GestorInventario.Backend.csproj|solutionrelative:gestorinventario.backend\\controllers\\entrada_inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6648F425-C9EB-4ED1-B691-53DB3C90CFCB}|GestorInventario.Backend\\GestorInventario.Backend.csproj|c:\\users\\benja\\onedrive\\escritorio\\universidad iti\\programaci\u00F3n de aplicaciones web y m\u00F3viles\\gestorinventario\\gestorinventario\\gestorinventario.backend\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6648F425-C9EB-4ED1-B691-53DB3C90CFCB}|GestorInventario.Backend\\GestorInventario.Backend.csproj|solutionrelative:gestorinventario.backend\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2AE3630C-ECDA-43A8-AA1E-3D2D7E1F1FCB}|GestorInventario.Shared\\GestorInventario.Shared.csproj|c:\\users\\benja\\onedrive\\escritorio\\universidad iti\\programaci\u00F3n de aplicaciones web y m\u00F3viles\\gestorinventario\\gestorinventario\\gestorinventario.shared\\entitis\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AE3630C-ECDA-43A8-AA1E-3D2D7E1F1FCB}|GestorInventario.Shared\\GestorInventario.Shared.csproj|solutionrelative:gestorinventario.shared\\entitis\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AE3630C-ECDA-43A8-AA1E-3D2D7E1F1FCB}|GestorInventario.Shared\\GestorInventario.Shared.csproj|c:\\users\\benja\\onedrive\\escritorio\\universidad iti\\programaci\u00F3n de aplicaciones web y m\u00F3viles\\gestorinventario\\gestorinventario\\gestorinventario.shared\\entitis\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AE3630C-ECDA-43A8-AA1E-3D2D7E1F1FCB}|GestorInventario.Shared\\GestorInventario.Shared.csproj|solutionrelative:gestorinventario.shared\\entitis\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6648F425-C9EB-4ED1-B691-53DB3C90CFCB}|GestorInventario.Backend\\GestorInventario.Backend.csproj|c:\\users\\benja\\onedrive\\escritorio\\universidad iti\\programaci\u00F3n de aplicaciones web y m\u00F3viles\\gestorinventario\\gestorinventario\\gestorinventario.backend\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6648F425-C9EB-4ED1-B691-53DB3C90CFCB}|GestorInventario.Backend\\GestorInventario.Backend.csproj|solutionrelative:gestorinventario.backend\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6648F425-C9EB-4ED1-B691-53DB3C90CFCB}|GestorInventario.Backend\\GestorInventario.Backend.csproj|c:\\users\\benja\\onedrive\\escritorio\\universidad iti\\programaci\u00F3n de aplicaciones web y m\u00F3viles\\gestorinventario\\gestorinventario\\gestorinventario.backend\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6648F425-C9EB-4ED1-B691-53DB3C90CFCB}|GestorInventario.Backend\\GestorInventario.Backend.csproj|solutionrelative:gestorinventario.backend\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6648F425-C9EB-4ED1-B691-53DB3C90CFCB}|GestorInventario.Backend\\GestorInventario.Backend.csproj|c:\\users\\benja\\onedrive\\escritorio\\universidad iti\\programaci\u00F3n de aplicaciones web y m\u00F3viles\\gestorinventario\\gestorinventario\\gestorinventario.backend\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6648F425-C9EB-4ED1-B691-53DB3C90CFCB}|GestorInventario.Backend\\GestorInventario.Backend.csproj|solutionrelative:gestorinventario.backend\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AE3630C-ECDA-43A8-AA1E-3D2D7E1F1FCB}|GestorInventario.Shared\\GestorInventario.Shared.csproj|c:\\users\\benja\\onedrive\\escritorio\\universidad iti\\programaci\u00F3n de aplicaciones web y m\u00F3viles\\gestorinventario\\gestorinventario\\gestorinventario.shared\\entitis\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AE3630C-ECDA-43A8-AA1E-3D2D7E1F1FCB}|GestorInventario.Shared\\GestorInventario.Shared.csproj|solutionrelative:gestorinventario.shared\\entitis\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6648F425-C9EB-4ED1-B691-53DB3C90CFCB}|GestorInventario.Backend\\GestorInventario.Backend.csproj|c:\\users\\benja\\onedrive\\escritorio\\universidad iti\\programaci\u00F3n de aplicaciones web y m\u00F3viles\\gestorinventario\\gestorinventario\\gestorinventario.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6648F425-C9EB-4ED1-B691-53DB3C90CFCB}|GestorInventario.Backend\\GestorInventario.Backend.csproj|solutionrelative:gestorinventario.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6648F425-C9EB-4ED1-B691-53DB3C90CFCB}|GestorInventario.Backend\\GestorInventario.Backend.csproj|c:\\users\\benja\\onedrive\\escritorio\\universidad iti\\programaci\u00F3n de aplicaciones web y m\u00F3viles\\gestorinventario\\gestorinventario\\gestorinventario.backend\\migrations\\20241224031759_adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6648F425-C9EB-4ED1-B691-53DB3C90CFCB}|GestorInventario.Backend\\GestorInventario.Backend.csproj|solutionrelative:gestorinventario.backend\\migrations\\20241224031759_adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 175,
+      "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -63,32 +75,70 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20241223014114_AddEntradaInventario.cs",
-              "DocumentMoniker": "C:\\Users\\BENJA\\OneDrive\\Escritorio\\UNIVERSIDAD ITI\\Programaci\u00F3n de Aplicaciones Web y M\u00F3viles\\GestorInventario\\GestorInventario\\GestorInventario.Backend\\Migrations\\20241223014114_AddEntradaInventario.cs",
-              "RelativeDocumentMoniker": "GestorInventario.Backend\\Migrations\\20241223014114_AddEntradaInventario.cs",
-              "ToolTip": "C:\\Users\\BENJA\\OneDrive\\Escritorio\\UNIVERSIDAD ITI\\Programaci\u00F3n de Aplicaciones Web y M\u00F3viles\\GestorInventario\\GestorInventario\\GestorInventario.Backend\\Migrations\\20241223014114_AddEntradaInventario.cs",
-              "RelativeToolTip": "GestorInventario.Backend\\Migrations\\20241223014114_AddEntradaInventario.cs",
+              "Title": "20250105031335_UpdateEntityUser.cs",
+              "DocumentMoniker": "C:\\Users\\BENJA\\OneDrive\\Escritorio\\UNIVERSIDAD ITI\\Programaci\u00F3n de Aplicaciones Web y M\u00F3viles\\GestorInventario\\GestorInventario\\GestorInventario.Backend\\Migrations\\20250105031335_UpdateEntityUser.cs",
+              "RelativeDocumentMoniker": "GestorInventario.Backend\\Migrations\\20250105031335_UpdateEntityUser.cs",
+              "ToolTip": "C:\\Users\\BENJA\\OneDrive\\Escritorio\\UNIVERSIDAD ITI\\Programaci\u00F3n de Aplicaciones Web y M\u00F3viles\\GestorInventario\\GestorInventario\\GestorInventario.Backend\\Migrations\\20250105031335_UpdateEntityUser.cs",
+              "RelativeToolTip": "GestorInventario.Backend\\Migrations\\20250105031335_UpdateEntityUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T01:41:14.496Z",
+              "WhenOpened": "2025-01-05T03:13:36.066Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\BENJA\\OneDrive\\Escritorio\\UNIVERSIDAD ITI\\Programaci\u00F3n de Aplicaciones Web y M\u00F3viles\\GestorInventario\\GestorInventario\\GestorInventario.Backend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "GestorInventario.Backend\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\BENJA\\OneDrive\\Escritorio\\UNIVERSIDAD ITI\\Programaci\u00F3n de Aplicaciones Web y M\u00F3viles\\GestorInventario\\GestorInventario\\GestorInventario.Backend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "GestorInventario.Backend\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:31:27.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Users\\BENJA\\OneDrive\\Escritorio\\UNIVERSIDAD ITI\\Programaci\u00F3n de Aplicaciones Web y M\u00F3viles\\GestorInventario\\GestorInventario\\GestorInventario.Backend\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "GestorInventario.Backend\\Data\\DataContext.cs",
               "ToolTip": "C:\\Users\\BENJA\\OneDrive\\Escritorio\\UNIVERSIDAD ITI\\Programaci\u00F3n de Aplicaciones Web y M\u00F3viles\\GestorInventario\\GestorInventario\\GestorInventario.Backend\\Data\\DataContext.cs",
               "RelativeToolTip": "GestorInventario.Backend\\Data\\DataContext.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-23T01:17:10.392Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
+              "Title": "20241224031759_AddUser.cs",
+              "DocumentMoniker": "C:\\Users\\BENJA\\OneDrive\\Escritorio\\UNIVERSIDAD ITI\\Programaci\u00F3n de Aplicaciones Web y M\u00F3viles\\GestorInventario\\GestorInventario\\GestorInventario.Backend\\Migrations\\20241224031759_AddUser.cs",
+              "RelativeDocumentMoniker": "GestorInventario.Backend\\Migrations\\20241224031759_AddUser.cs",
+              "ToolTip": "C:\\Users\\BENJA\\OneDrive\\Escritorio\\UNIVERSIDAD ITI\\Programaci\u00F3n de Aplicaciones Web y M\u00F3viles\\GestorInventario\\GestorInventario\\GestorInventario.Backend\\Migrations\\20241224031759_AddUser.cs",
+              "RelativeToolTip": "GestorInventario.Backend\\Migrations\\20241224031759_AddUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:17:59.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\BENJA\\OneDrive\\Escritorio\\UNIVERSIDAD ITI\\Programaci\u00F3n de Aplicaciones Web y M\u00F3viles\\GestorInventario\\GestorInventario\\GestorInventario.Shared\\Entitis\\User.cs",
+              "RelativeDocumentMoniker": "GestorInventario.Shared\\Entitis\\User.cs",
+              "ToolTip": "C:\\Users\\BENJA\\OneDrive\\Escritorio\\UNIVERSIDAD ITI\\Programaci\u00F3n de Aplicaciones Web y M\u00F3viles\\GestorInventario\\GestorInventario\\GestorInventario.Shared\\Entitis\\User.cs",
+              "RelativeToolTip": "GestorInventario.Shared\\Entitis\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T02:11:59.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Entrada_InventarioController.cs",
               "DocumentMoniker": "C:\\Users\\BENJA\\OneDrive\\Escritorio\\UNIVERSIDAD ITI\\Programaci\u00F3n de Aplicaciones Web y M\u00F3viles\\GestorInventario\\GestorInventario\\GestorInventario.Backend\\Controllers\\Entrada_InventarioController.cs",
               "RelativeDocumentMoniker": "GestorInventario.Backend\\Controllers\\Entrada_InventarioController.cs",
@@ -96,12 +146,11 @@
               "RelativeToolTip": "GestorInventario.Backend\\Controllers\\Entrada_InventarioController.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAuwDUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T01:14:26.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-23T01:14:26.844Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "Entrada_Inventario.cs",
               "DocumentMoniker": "C:\\Users\\BENJA\\OneDrive\\Escritorio\\UNIVERSIDAD ITI\\Programaci\u00F3n de Aplicaciones Web y M\u00F3viles\\GestorInventario\\GestorInventario\\GestorInventario.Shared\\Entitis\\Entrada_Inventario.cs",
               "RelativeDocumentMoniker": "GestorInventario.Shared\\Entitis\\Entrada_Inventario.cs",
@@ -109,25 +158,24 @@
               "RelativeToolTip": "GestorInventario.Shared\\Entitis\\Entrada_Inventario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T01:09:43.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-23T01:09:43.32Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "ProveedorController.cs",
               "DocumentMoniker": "C:\\Users\\BENJA\\OneDrive\\Escritorio\\UNIVERSIDAD ITI\\Programaci\u00F3n de Aplicaciones Web y M\u00F3viles\\GestorInventario\\GestorInventario\\GestorInventario.Backend\\Controllers\\ProveedorController.cs",
               "RelativeDocumentMoniker": "GestorInventario.Backend\\Controllers\\ProveedorController.cs",
               "ToolTip": "C:\\Users\\BENJA\\OneDrive\\Escritorio\\UNIVERSIDAD ITI\\Programaci\u00F3n de Aplicaciones Web y M\u00F3viles\\GestorInventario\\GestorInventario\\GestorInventario.Backend\\Controllers\\ProveedorController.cs",
               "RelativeToolTip": "GestorInventario.Backend\\Controllers\\ProveedorController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAcwDQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-23T00:07:43.325Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "Proveedor.cs",
               "DocumentMoniker": "C:\\Users\\BENJA\\OneDrive\\Escritorio\\UNIVERSIDAD ITI\\Programaci\u00F3n de Aplicaciones Web y M\u00F3viles\\GestorInventario\\GestorInventario\\GestorInventario.Shared\\Entitis\\Proveedor.cs",
               "RelativeDocumentMoniker": "GestorInventario.Shared\\Entitis\\Proveedor.cs",
@@ -135,12 +183,11 @@
               "RelativeToolTip": "GestorInventario.Shared\\Entitis\\Proveedor.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T02:59:46.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-21T02:59:46.891Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\BENJA\\OneDrive\\Escritorio\\UNIVERSIDAD ITI\\Programaci\u00F3n de Aplicaciones Web y M\u00F3viles\\GestorInventario\\GestorInventario\\GestorInventario.Backend\\Program.cs",
               "RelativeDocumentMoniker": "GestorInventario.Backend\\Program.cs",
@@ -153,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "Categoria.cs",
               "DocumentMoniker": "C:\\Users\\BENJA\\OneDrive\\Escritorio\\UNIVERSIDAD ITI\\Programaci\u00F3n de Aplicaciones Web y M\u00F3viles\\GestorInventario\\GestorInventario\\GestorInventario.Shared\\Entitis\\Categoria.cs",
               "RelativeDocumentMoniker": "GestorInventario.Shared\\Entitis\\Categoria.cs",
@@ -161,38 +208,36 @@
               "RelativeToolTip": "GestorInventario.Shared\\Entitis\\Categoria.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T20:51:12.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T20:51:12.748Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "RolesController.cs",
               "DocumentMoniker": "C:\\Users\\BENJA\\OneDrive\\Escritorio\\UNIVERSIDAD ITI\\Programaci\u00F3n de Aplicaciones Web y M\u00F3viles\\GestorInventario\\GestorInventario\\GestorInventario.Backend\\Controllers\\RolesController.cs",
               "RelativeDocumentMoniker": "GestorInventario.Backend\\Controllers\\RolesController.cs",
               "ToolTip": "C:\\Users\\BENJA\\OneDrive\\Escritorio\\UNIVERSIDAD ITI\\Programaci\u00F3n de Aplicaciones Web y M\u00F3viles\\GestorInventario\\GestorInventario\\GestorInventario.Backend\\Controllers\\RolesController.cs",
               "RelativeToolTip": "GestorInventario.Backend\\Controllers\\RolesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-20T18:50:07.76Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "ProductosController.cs",
               "DocumentMoniker": "C:\\Users\\BENJA\\OneDrive\\Escritorio\\UNIVERSIDAD ITI\\Programaci\u00F3n de Aplicaciones Web y M\u00F3viles\\GestorInventario\\GestorInventario\\GestorInventario.Backend\\Controllers\\ProductosController.cs",
               "RelativeDocumentMoniker": "GestorInventario.Backend\\Controllers\\ProductosController.cs",
               "ToolTip": "C:\\Users\\BENJA\\OneDrive\\Escritorio\\UNIVERSIDAD ITI\\Programaci\u00F3n de Aplicaciones Web y M\u00F3viles\\GestorInventario\\GestorInventario\\GestorInventario.Backend\\Controllers\\ProductosController.cs",
               "RelativeToolTip": "GestorInventario.Backend\\Controllers\\ProductosController.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAkwEEAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T02:57:39.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T02:57:39.778Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\BENJA\\OneDrive\\Escritorio\\UNIVERSIDAD ITI\\Programaci\u00F3n de Aplicaciones Web y M\u00F3viles\\GestorInventario\\GestorInventario\\GestorInventario.Shared\\Entitis\\Producto.cs",
               "RelativeDocumentMoniker": "GestorInventario.Shared\\Entitis\\Producto.cs",
@@ -200,8 +245,7 @@
               "RelativeToolTip": "GestorInventario.Shared\\Entitis\\Producto.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAMwCAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T02:45:43.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T02:45:43.116Z"
             },
             {
               "$type": "Document",
@@ -211,7 +255,7 @@
               "RelativeDocumentMoniker": "GestorInventario.Shared\\Entitis\\Rol.cs",
               "ToolTip": "C:\\Users\\BENJA\\OneDrive\\Escritorio\\UNIVERSIDAD ITI\\Programaci\u00F3n de Aplicaciones Web y M\u00F3viles\\GestorInventario\\GestorInventario\\GestorInventario.Shared\\Entitis\\Rol.cs",
               "RelativeToolTip": "GestorInventario.Shared\\Entitis\\Rol.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwBIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T23:23:02.529Z",
               "EditorCaption": ""

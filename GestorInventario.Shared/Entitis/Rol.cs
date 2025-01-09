@@ -9,5 +9,11 @@ namespace GestorInventario.Shared.Entitis
         [Required]
         [MaxLength(50)]
         public string? Name { get; set; }
+
+        // Genericos
+
+        //public ICollection<User> Users { get; set; }
+
+        // public int UserCount => Users == null ? 0 : Users.Count();// lectura
     }
 }
